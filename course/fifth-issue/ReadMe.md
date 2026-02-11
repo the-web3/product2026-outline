@@ -194,8 +194,9 @@ The Web3 社区从不滞后于时代，我们的课程内容始终与市场同�
 
 ## 五. 线下空间环境
 学员可按需选择深圳或天津线下学习点，舒适环境搭配零食饮料支持，打造高专注度的沉浸式学习氛围。
-[图片]
-[图片]
+[![Dapplink](https://github.com/the-web3/product2026-outline/blob/main/iamges/shenzhen.png)](https://github.com/the-web3)
+[![Dapplink](https://github.com/the-web3/product2026-outline/blob/main/iamges/tianjin.png)](https://github.com/the-web3)
+
 
 ## 六. 学习方式与费用
 - 学习方式：线上/线下，两者享受的服务是一样的。
