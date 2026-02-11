@@ -1,5 +1,8 @@
 # The Web3 社区 2026 最新版产品投研体系课程大纲
 
+[![Dapplink](https://github.com/the-web3/product2026-outline/blob/main/iamges/productoutline.png)](https://github.com/the-web3)
+
+
 The Web3 社区从不滞后于时代，我们的课程内容始终与市场同步更新，让学员永远站在 Web3 发展的最前沿。
 
 ## 第一阶段：区块链基础知识
